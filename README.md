@@ -5,7 +5,7 @@
 > Life isn't about waiting for the storm to pass, its about learning how to dance in the rain. - Vivian greene 🌟🌟
 
 #
-![shin_panda](../imgs/shin_panda.jpg)
+![shin_panda](./imgs/shin_panda.jpg)
 
 #
 
@@ -26,6 +26,6 @@
 
 ## Thanks for reading 💕
 
-![shin_panda](../imgs/shin_raincoat.jpg)
+![shin_panda](./imgs/shin_raincoat.jpg)
 
 #
