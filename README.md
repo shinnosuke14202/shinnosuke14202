@@ -22,4 +22,3 @@
 
 <img src="./imgs/shin_raincoat.jpg" width="30%">
 
-#
