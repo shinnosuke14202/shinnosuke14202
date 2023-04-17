@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2 align="center">Welcome to my Profile ☃️</h2>
 
-<!--
-**shinnosuke14202/shinnosuke14202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+> Life isn't about waiting for the storm to pass, its about learning how to dance in the rain. - Vivian greene 🌟🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+![shin_panda](../imgs/shin_panda.jpg)
+
+#
+
+## My favorite songs 🎶
+1. [相思成灾](https://youtu.be/wfHBy48BMNw)
+2. [滿目星辰皆是你](https://youtu.be/a4GmmHzXF9Y)
+3. [嚣张](https://youtu.be/js7_OSmYDxg)
+
+#
+
+## About me 🐼
+* **Name**: Đặng Thành Long
+* **Birthday**: 14.02.2002
+* **Love**: books, manga
+* **Hobby**: web development
+
+#
+
+## Thanks for reading 💕
+
+![shin_panda](../imgs/shin_raincoat.jpg)
+
+#
