@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Profile 🐲</h1>
 
-> **Life isn't about waiting for the storm to pass, its about learning how to dance in the rain. - Vivian greene** ⛈️⛈️
+> **Life isn't about waiting for the storm to pass, its about learning how to dance in the rain. - Vivian greene** 
 
 <img src="./imgs/shin_panda.jpg" width="30%" align="right">
 
