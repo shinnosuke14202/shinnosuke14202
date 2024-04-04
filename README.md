@@ -4,21 +4,10 @@
 
 <img src="./imgs/shin_panda.jpg" width="30%" align="right">
 
-## My favorite songs 🎶
+## Favorite songs 🎶
 1. [相思成灾](https://youtu.be/wfHBy48BMNw)
 2. [滿目星辰皆是你](https://youtu.be/a4GmmHzXF9Y)
 3. [嚣张](https://youtu.be/js7_OSmYDxg)
-
-## About me 🐼
-
-* **Name**: Đặng Thành Long
-* **Birthday**: 14.02.2002
-* **Love**: books, manga
-* **Hobby**: web development
-
-#
-
-## Thanks for reading 💕
 
 <img src="./imgs/shin_raincoat.jpg" width="30%">
 
